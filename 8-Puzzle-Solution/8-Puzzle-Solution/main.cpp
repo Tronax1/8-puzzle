@@ -22,6 +22,8 @@ int main() {
 			board_game.add_tile(i, j, tile);
 		}
 	}
+	myFile.close();
 	board_game.to_string();
+	cout << "Value of the heuristic is:" << board_game.A_star() << endl;
 	return 0;
 }
