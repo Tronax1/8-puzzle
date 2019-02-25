@@ -1,3 +1,6 @@
 ﻿  Puzzle.cpp
-c:\users\jorge villareal\documents\introduction to ai\8-puzzle\8-puzzle-solution\8-puzzle-solution\puzzle.cpp(27): warning C4715: 'puzzle::distance': not all control paths return a value
+c:\users\jorge villareal\documents\introduction to ai\8-puzzle\8-puzzle-solution\8-puzzle-solution\puzzle.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jorge villareal\documents\introduction to ai\8-puzzle\8-puzzle-solution\8-puzzle-solution\puzzle.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jorge villareal\documents\introduction to ai\8-puzzle\8-puzzle-solution\8-puzzle-solution\puzzle.cpp(25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\jorge villareal\documents\introduction to ai\8-puzzle\8-puzzle-solution\8-puzzle-solution\puzzle.cpp(29): warning C4715: 'puzzle::distance': not all control paths return a value
   8-Puzzle-Solution.vcxproj -> C:\Users\JORGE VILLAREAL\Documents\Introduction to AI\8-puzzle\8-Puzzle-Solution\Debug\8-Puzzle-Solution.exe

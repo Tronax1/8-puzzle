@@ -24,6 +24,6 @@ int main() {
 	}
 	myFile.close();
 	board_game.to_string();
-	cout << "Value of the heuristic is:" << board_game.A_star() << endl;
+	cout << "The shortest path cost is:" << board_game.A_star() << endl;
 	return 0;
 }
